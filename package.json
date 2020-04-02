@@ -1,0 +1,21 @@
+{
+  "name": "my-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "build": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "plop": "^2.6.0"
+  },
+  "dependencies": {
+    "cross-spawn": "^7.0.1"
+  },
+  "repository": "https://github.com/Gjb7598189/my-builder.git"
+}
